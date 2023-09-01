@@ -13,9 +13,9 @@
 
 Here is my module 1 homework assignment, a search engine optimization challenge.
 
-Deployed link: 
-
-Landing page: 
+Links:
+https://kee950909.github.io/optical-illusion-refactor/
+https://github.com/kee950909/optical-illusion-refactor
 
 ## Technologies
 
@@ -31,7 +31,7 @@ Download the repository
 - In your terminal, cd to the CRM folder directory, `$npm i`
 - To run on browser: `npm start`
 - You can also use the heroku-link for a demo:
-- Deployed link:
+- Deployed link: https://kee950909.github.io/optical-illusion-refactor/
 
 ## Code Overview
 
